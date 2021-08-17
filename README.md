@@ -6,9 +6,9 @@ Deployment Test
 
 Author: Suad Talafha
 
-[test](https://github.com/suadtalafha/basic-express-server)
+[test](https://github.com/suadtalafha/basic-api-server)
 
-[front-end](https://yourname-server-deploy-dev1.herokuapp.com/)
+[front-end](https://basic-api-server11.herokuapp.com/)
 
 
 Setup
